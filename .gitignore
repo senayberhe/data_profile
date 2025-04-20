@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Conda / Virtual environments
+env/
+venv/
+.venv/
+*.conda
+*.egg-info/
+.conda/
+data_profiler_env/
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# VSCode / IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Streamlit secrets (if used)
+.streamlit/secrets.toml
+
+# Data files (optional — if personal or sensitive)
+*.csv
+*.xlsx
+
+# Other
+*.bak
